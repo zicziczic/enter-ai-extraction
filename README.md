@@ -18,14 +18,13 @@ Durante o desenvolvimento do desafio, encontrei certas dificuldades devido a fal
 
 ## Como Executar o Código
 1. Clone este repositório para sua máquina local.
-2. '''bash
+2. ```bash
     python -m venv env
 
-2. '''bash
+2. ```bash
     source ./env/bin/activate  # No Windows use `env\Scripts\activate`
 
-3.  Instale as dependências necessárias:
-   '''bash
+3.   ```bash
     pip install -r requirements.txt
 
 4. Parâmetros:
@@ -52,4 +51,5 @@ O processamento gera um arquivo JSON com a seguinte estrutura:
       "Pergunta 3": "Outra resposta"
     }
   }
+
 }
