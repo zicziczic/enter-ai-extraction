@@ -24,7 +24,7 @@ Durante o desenvolvimento do desafio, encontrei certas dificuldades devido a fal
 2. ```bash
     source ./env/bin/activate  # No Windows use `env\Scripts\activate`
 
-3.   ```bash
+3. ```bash
     pip install -r requirements.txt
 
 4. Parâmetros:
@@ -53,3 +53,4 @@ O processamento gera um arquivo JSON com a seguinte estrutura:
   }
 
 }
+
